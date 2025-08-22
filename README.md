@@ -1,6 +1,6 @@
 # Task-Tracker
 <hr>
-A client based task tracker made with Javascript. In order to this app you must have NodeJS installed.
+A client based task tracker made with Javascript. In order to run this app you must have NodeJS installed.
 
 ## How to Run
 ```bash
