@@ -3,7 +3,6 @@
 A client based task tracker made with Javascript. In order to this app you must have NodeJS installed.
 
 ## How to Run
-<hr>
 ```bash
 # Adding a new task
 node index.js add "Buy groceries"
